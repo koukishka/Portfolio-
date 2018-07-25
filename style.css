@@ -1,0 +1,90 @@
+body
+{
+	width: 100%;
+	height:100%;
+	margin-right: auto;
+	margin-left: auto;
+	font-size:12px;
+}
+
+p
+{
+	font-size:20px;
+}		
+
+
+.page-header
+{
+	border-bottom: solid grey;	
+	width:100%;
+	order:0;
+}
+
+.main_image
+{
+	order:1;
+}
+
+.list-unstyled
+{
+	width:20%;
+	order:1;	
+}
+
+.logo
+{
+	height: 100px;
+	/* border-bottom: solid blue;	 */
+	margin-right: 1em;
+	vertical-align: top;
+	margin-top: 0.2px;
+}
+
+.text-right
+{
+	font-family:"Comic Sans MS", cursive, sans-serif;
+}
+
+.lefti
+{
+	height:100px;
+	width:auto;
+	order:1;
+}
+
+.lefti1
+{
+	height:100px;
+	width:auto;
+	order:2;
+}
+
+.lefti2{
+	height:100px;
+	width:auto;
+	order:3;
+}
+
+.txt
+{
+	width:100%;
+}
+
+.free
+{
+	width:33%;
+	height:10%; 
+	order:1;
+}
+
+.free2
+{
+	width:40%;
+	order:2;
+}
+
+.free3
+{
+	width:33%;
+	order: 3;
+}

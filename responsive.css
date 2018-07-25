@@ -1,0 +1,12 @@
+@media screen and (max-width:573px)
+{
+	.name
+	{
+		font-size:30px;
+	}
+	.sub-name
+	{
+		font-size:20px;
+	}
+	
+}
